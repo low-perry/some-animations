@@ -1,0 +1,31 @@
+body, html {
+    margin: 0;
+    background-color: #e6f3ee;
+  }
+.card-container {
+    background-color: blueviolet;
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.tilt{
+    width: 30%;
+    background-color: aqua;
+    height: 250px;
+    position: relative;
+    top:50px
+}
+.first{
+    left: 20px;
+}
+.second {
+    right: 60px;
+    top: 360px;;
+}
+.third {
+    top: 360px;
+}
+.forth {
+    
+}
