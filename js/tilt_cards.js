@@ -1,7 +1,7 @@
 //This does the tilting of the card
 var cards = document.querySelectorAll(".tilt");
 
-// Loop through each card
+
 cards.forEach(function(card) {
   // Add a 'mousemove' event listener to the card
   card.addEventListener("mousemove", function(e) {
